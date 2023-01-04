@@ -24,4 +24,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/shinyquagsire23/OpenJKDF2
-        commit: e9737b5e6684915664d021cc4ee14d29c0e5b391
+        commit: b25a2a677c0ca75dc6a884994451ddbbee5a4f99
