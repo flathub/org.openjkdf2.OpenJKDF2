@@ -10,6 +10,7 @@ finish-args:
   - --share=ipc  # needed for X11
   - --share=network # needed for networking (Multiplayer/Valve GameNetworkingSockets)
   - --socket=fallback-x11
+  - --socket=wayland
   - --socket=pulseaudio
 
 modules:
@@ -24,4 +25,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/shinyquagsire23/OpenJKDF2
-        commit: 8742383bf326b6d7ac2e8e1013c78058b29ed085
+        commit: face91edac129a1085292fff7124f62e173516c1
