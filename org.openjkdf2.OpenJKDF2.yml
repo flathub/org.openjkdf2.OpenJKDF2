@@ -1,6 +1,6 @@
 app-id: org.openjkdf2.OpenJKDF2
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 
 command: openjkdf2
@@ -25,4 +25,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/shinyquagsire23/OpenJKDF2
-        commit: 522fce4960ddbdd305418a32237b31e23afe9849
+        commit: 814b684c0d06bbfc6e1121941fc8a9e88e3aede7
